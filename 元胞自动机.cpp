@@ -1,3 +1,5 @@
+//Linux 运行 要是用Windows需要将systemp("clear")改为system("cls")
+
 #include <bits/stdc++.h>
 #include <random>
 #include <time.h>
